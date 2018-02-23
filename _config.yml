@@ -1,12 +1,11 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: AUV IITK
-fullname: Autonomous Underwater Vehicle Team, IIT Kanpur
-email: iitkauv@gmail.com
+name: David Hoffman
+email: David.E.Hoffman.1@Gmail.com
 description: > # this means to ignore newlines until "url:"
-              Official Website for Autonomous Underwater Vehicle (AUV) Team at IIT Kanpur, India
-keywords: auv, robotics, iitk, ros, opencv
+              Official Website for David Hoffman, Data Scientist
+keywords: 
 footer_text: >
 
 url: # the base hostname & protocol for your site
@@ -25,18 +24,18 @@ repo: http://github.com/AUV-IITK
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: AUV-IITK # put your github username
-facebook_username: auviitk # put your facebook username
-youtube_username: channel/UCBaRXMUGSoJeHLFBMa0q7Vg # put your youtube username
+github_username: davehoff # put your github username
+facebook_username:  # put your facebook username
+youtube_username:  # put your youtube username
 twitter_username: # put your twitter username
-linkedin_username: company/auv-iitk # put your linkedin username
+linkedin_username:  # put your linkedin username
 contact_note: #  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: "AUVeScope"
-blog_description: "A blog for tutorials, musings, and news"
+blog_name: "David Hoffman Blog"
+blog_description: "A blog for anything data"
 
 # Pagination
 paginate: 4
@@ -49,7 +48,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_url: auviitk.com
+disqus_url: 
 disqus_shortname:  # put your disqus shortname
 
 # Optional features

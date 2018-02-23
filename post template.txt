@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hello, World?"
+date:   2018-02-23 01:34:00
+published: true
+---
+
+I my name is David Hoffman
+
+Change date to current
+change post title to the topic you are posting about.
+
+
